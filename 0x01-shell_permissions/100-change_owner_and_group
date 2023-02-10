@@ -1,2 +1,2 @@
-#!/bin/ash
-chown staff:vincent *
+#!/bin/bash
+chown vincent:staff *
